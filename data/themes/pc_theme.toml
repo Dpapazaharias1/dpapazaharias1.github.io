@@ -1,0 +1,21 @@
+# Theme metadata
+name = "pc_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#002f56" # GAMMA BLUE
+
+# Menu
+menu_primary = "#fffefc"
+menu_text = "#666666"
+menu_text_active = "#002f56"
+menu_title = "#051a24"
+
+# Backgrounds
+background = "#e1e1e1"
+home_section_odd = "#fffefc"
+home_section_even = "#e1e1e1"
+
+font = "pc_font"
