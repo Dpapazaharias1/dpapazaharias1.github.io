@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Branch-and-Cut Approach for Simple Graph Partitioning on Sparse Graphs"
-authors: [Demetrios V. Papazaharias, Jose L. Walteros. Anticipated December 2020]
+title: "Graph Partitioning on Sparse Graphs: Projections and Formulations"
+authors: [Demetrios V. Papazaharias, Jose L. Walteros. Anticipated May 2021]
 date: "2020-12-08"
 doi: ""
 

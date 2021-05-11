@@ -69,6 +69,9 @@ subtitle = "Presentations & Workshops"
  css_class = ""
 +++
 
+<span style="color:#002f56">{{< icon name="comment" pack="fas" >}}[Scalable Branch-and-Price Implementation for the CVRP with SCoOL](../talk/cvrp/PapazahariasD_SCoOL.pdf)</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#666666"><sup>UBCSE Demo Days, May 2021</sup></span> 
+
 <span style="color:#002f56">{{< icon name="comment" pack="fas" >}}[Branch-and-Cut Approach for Simple Graph Partitioning on Sparse Graphs](../talk/sgpp/GP+INFORMS2020+Shortened.pdf)</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#666666"><sup>INFORMS Annual Meeting, November 2020</sup></span> 
 
